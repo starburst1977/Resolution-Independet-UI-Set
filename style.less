@@ -1,0 +1,65 @@
+
+/* @group Imports */
+  
+    @import "font-awesome.less"; /* Awesome Font */
+    @import "mod-noise.less"; /* Noise CSS */
+    @import "mod-button.less"; /* Buttons */
+    @import "mod-input.less"; /* Inputs */
+
+/* @end */
+
+@fontsize: 12px;
+@fontfamily: helvetica;
+
+.bleed {
+	background-clip: padding-box;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+}
+
+.box-shadow(@bs-arguments) {
+	 -webkit-box-shadow: @bs-arguments;
+	 -moz-box-shadow: @bs-arguments;
+	 box-shadow: @bs-arguments;
+}
+
+.border-radius(@topleft: 0, @topright: 0, @bottomright: 0, @bottomleft: 0 ) {
+	 -webkit-border-top-right-radius: @topright;
+	 -webkit-border-bottom-right-radius: @bottomright;
+	 -webkit-border-bottom-left-radius: @bottomleft;
+	 -webkit-border-top-left-radius: @topleft;
+	 -moz-border-radius-topright: @topright;
+	 -moz-border-radius-bottomright: @bottomright;
+	 -moz-border-radius-bottomleft: @bottomleft;
+	 -moz-border-radius-topleft: @topleft;
+	 border-top-right-radius: @topright;
+	 border-bottom-right-radius: @bottomright;
+	 border-bottom-left-radius: @bottomleft;
+	 border-top-left-radius: @topleft;
+}
+
+.gradient (@color: #F5F5F5, @startcolor: #FFFFFF, @endcolor: #EDEDED) {
+    background: @color;
+    background: -webkit-gradient(linear, left top, left top, from(@startcolor), to(@endcolor));
+    background: -moz-linear-gradient(top,  @startcolor,  @endcolor);
+    background: -webkit-linear-gradient(top, @startcolor 0%,@endcolor 100%);
+    background: -o-linear-gradient(top, @startcolor 0%,@endcolor 100%);
+    background: -ms-linear-gradient(top, @startcolor 0%,@endcolor 100%);
+	filter: e(%("progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=%d,endColorstr=%d)", @startcolor, @endcolor));
+    -ms-filter: %("progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=%d,endColorstr=%d)", @startcolor, @endcolor);
+    background: linear-gradient(top, @startcolor 0%,@endcolor 100%);
+}
+
+.frame {
+    margin: 100px auto 0;
+    width: 400px;
+    font-size: @fontsize;
+    font-family: @fontfamily;
+    .buttons, .multibuttons, .inputs {
+        padding: 0.5em 0;
+        display: inline-block;
+    }
+}
+
+
+
