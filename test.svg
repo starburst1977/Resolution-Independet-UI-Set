@@ -20,8 +20,8 @@
     <rect x="10" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="11" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="12" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
-    <rect x="13" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.14;"/>
-    <rect x="14" y="0" width="1" height="1" style="fill: white; fill-opacity: 0.02;"/>
+    <rect x="13" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
+    <rect x="14" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="15" y="0" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="16" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.06;"/>
     <rect x="17" y="0" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
@@ -47,7 +47,7 @@
     <rect x="15" y="1" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="16" y="1" width="1" height="1" style="fill: black; fill-opacity: 0.03;"/>
     <rect x="17" y="1" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="18" y="1" width="1" height="1" style="fill: black; fill-opacity: 0.13;"/>
+    <rect x="18" y="1" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
     <rect x="19" y="1" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     
     <!-- Reihe 3 -->
@@ -57,7 +57,7 @@
     <rect x="3" y="2" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="4" y="2" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="5" y="2" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="6" y="2" width="1" height="1" style="fill: black; fill-opacity: 0.13;"/>
+    <rect x="6" y="2" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
     <rect x="7" y="2" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="8" y="2" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="9" y="2" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
@@ -85,11 +85,11 @@
     <rect x="9" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="10" y="3" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="11" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
-    <rect x="12" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.08;"/>
+    <rect x="12" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="13" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
-    <rect x="14" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.09;"/>
+    <rect x="14" y="3" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="15" y="3" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="16" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.12;"/>
+    <rect x="16" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
     <rect x="17" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.06;"/>
     <rect x="18" y="3" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="19" y="3" width="1" height="1" style="fill: black; fill-opacity: 0.04;"/>
@@ -97,7 +97,7 @@
     <!-- Reihe 5 -->
     <rect x="0" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="1" y="4" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="2" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.15;"/>
+    <rect x="2" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
     <rect x="3" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="4" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="5" y="4" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
@@ -107,13 +107,13 @@
     <rect x="9" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="10" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.03;"/>
     <rect x="11" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
-    <rect x="12" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.18;"/>
+    <rect x="12" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.08;"/>
     <rect x="13" y="4" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="14" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.03;"/>
     <rect x="15" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="16" y="4" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="17" y="4" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="18" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.12;"/>
+    <rect x="18" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="19" y="4" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     
     <!-- Reihe 6 -->
@@ -121,7 +121,7 @@
     <rect x="1" y="5" width="1" height="1" style="fill: black; fill-opacity: 0.04;"/>
     <rect x="2" y="5" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="3" y="5" width="1" height="1" style="fill: black; fill-opacity: 0.08;"/>
-    <rect x="4" y="5" width="1" height="1" style="fill: white; fill-opacity: 0.02;"/>
+    <rect x="4" y="5" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="5" y="5" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="6" y="5" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="7" y="5" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
@@ -148,7 +148,7 @@
     <rect x="6" y="6" width="1" height="1" style="fill: black; fill-opacity: 0.03;"/>
     <rect x="7" y="6" width="1" height="1" style="fill: black; fill-opacity: 0.01;"/>
     <rect x="8" y="6" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="9" y="6" width="1" height="1" style="fill: black; fill-opacity: 0.12;"/>
+    <rect x="9" y="6" width="1" height="1" style="fill: black; fill-opacity: 0.08;"/>
     <rect x="10" y="6" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="11" y="6" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="12" y="6" width="1" height="1" style="fill: black; fill-opacity: 0.03;"/>
@@ -173,19 +173,19 @@
     <rect x="9" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.04;"/>
     <rect x="10" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.06;"/>
     <rect x="11" y="7" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="12" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.15;"/>
+    <rect x="12" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
     <rect x="13" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="14" y="7" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="15" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.14;"/>
-    <rect x="16" y="7" width="1" height="1" style="fill: white; fill-opacity: 0.03;"/>
+    <rect x="15" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.04;"/>
+    <rect x="16" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.03;"/>
     <rect x="17" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.04;"/>
     <rect x="18" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
-    <rect x="19" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.12;"/>
+    <rect x="19" y="7" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     
     <!-- Reihe 9 -->
     <rect x="0" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
     <rect x="1" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
-    <rect x="2" y="8" width="1" height="1" style="fill: white; fill-opacity: 0.01;"/>
+    <rect x="2" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.01;"/>
     <rect x="3" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="4" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.08;"/>
     <rect x="5" y="8" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
@@ -197,7 +197,7 @@
     <rect x="11" y="8" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="12" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="13" y="8" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
-    <rect x="14" y="8" width="1" height="1" style="fill: white; fill-opacity: 0.02;"/>
+    <rect x="14" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.02;"/>
     <rect x="15" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="16" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="17" y="8" width="1" height="1" style="fill: black; fill-opacity: 0.1;"/>
@@ -211,7 +211,7 @@
     <rect x="3" y="9" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="4" y="9" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="5" y="9" width="1" height="1" style="fill: black; fill-opacity: 0.07;"/>
-    <rect x="6" y="9" width="1" height="1" style="fill: white; fill-opacity: 0.03;"/>
+    <rect x="6" y="9" width="1" height="1" style="fill: black; fill-opacity: 0.03;"/>
     <rect x="7" y="9" width="1" height="1" style="fill: black; fill-opacity: 0.05;"/>
     <rect x="8" y="9" width="1" height="1" style="fill: black; fill-opacity: 0;"/>
     <rect x="9" y="9" width="1" height="1" style="fill: black; fill-opacity: 0.08;"/>
